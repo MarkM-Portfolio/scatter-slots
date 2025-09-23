@@ -1,0 +1,17 @@
+asyncio
+bs4
+datetime
+fastapi[standard]
+httpx
+logging
+matplotlib
+mplfinance
+pandas
+pydantic
+pyautogui
+pyinstaller
+pynput
+requests
+selenium
+uvicorn[standard]
+webdriver-manager
